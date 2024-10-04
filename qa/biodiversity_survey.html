@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>生物多樣性調查</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body data-task="biodiversity_survey">
+    <h1>生物多樣性調查</h1>
+    <div id="start-container" class="question-box">
+        <button id="start-button">開始</button>
+    </div>
+    <div id="question-container" class="question-box" style="display: none;">
+        <p id="question">載入問題中...</p>
+        <div class="timer">倒數時間: <span id="timer">20</span> 秒</div>
+        <button id="reveal">顯示答案</button>
+        <p id="feedback"></p>
+    </div>
+    <script src="../script.js"></script>
+</body>
+</html>

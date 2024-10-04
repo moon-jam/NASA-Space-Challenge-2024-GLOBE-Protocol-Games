@@ -1,0 +1,243 @@
+{
+    "river_water_quality_monitoring": [
+      {
+        "score": 5,
+        "question": "在河川水質監測中，哪種污染物最常見？",
+        "answer": "有機污染物"
+      },
+      {
+        "score": 5,
+        "question": "河川水質監測的目的是什麼？",
+        "answer": "保護水生生態系統"
+      }
+    ],
+    "soil_health_assessment": [
+      {
+        "score": 4,
+        "question": "土壤健康評估通常需要分析哪些指標？",
+        "answer": "有機質含量和pH值"
+      },
+      {
+        "score": 4,
+        "question": "哪種土壤狀況有利於植物生長？",
+        "answer": "富含有機質"
+      }
+    ],
+    "urban_air_quality_improvement": [
+      {
+        "score": 6,
+        "question": "常用的城市空氣質量指標有哪些？",
+        "answer": "PM2.5和PM10"
+      },
+      {
+        "score": 6,
+        "question": "改善空氣質量的方法包括什麼？",
+        "answer": "減少汽車尾氣排放"
+      }
+    ],
+    "community_waste_management": [
+      {
+        "score": 5,
+        "question": "哪些措施可以有效減少社區廢棄物？",
+        "answer": "推廣回收與再利用"
+      },
+      {
+        "score": 5,
+        "question": "哪些材料可回收？",
+        "answer": "塑膠、金屬和紙張"
+      }
+    ],
+    "biodiversity_survey": [
+      {
+        "score": 7,
+        "question": "生物多樣性調查的目的是什麼？",
+        "answer": "保護生態系統"
+      },
+      {
+        "score": 7,
+        "question": "為何生物多樣性重要？",
+        "answer": "維持生態平衡"
+      }
+    ],
+    "energy_efficiency_improvement": [
+      {
+        "score": 6,
+        "question": "哪一種設備有助於節能？",
+        "answer": "LED燈"
+      },
+      {
+        "score": 6,
+        "question": "提升能源效率可以達到什麼效果？",
+        "answer": "減少碳排放"
+      }
+    ],
+    "forest_restoration_project": [
+      {
+        "score": 8,
+        "question": "森林復育有助於解決哪些環境問題？",
+        "answer": "土壤侵蝕和水土保持"
+      },
+      {
+        "score": 8,
+        "question": "哪種植物通常適合森林復育？",
+        "answer": "本地樹種"
+      }
+    ],
+    "environmental_regulations_awareness": [
+      {
+        "score": 4,
+        "question": "哪個法律專門保護濕地？",
+        "answer": "濕地保護法"
+      },
+      {
+        "score": 4,
+        "question": "為何提升環境法規意識很重要？",
+        "answer": "保護自然資源"
+      }
+    ],
+    "wetlands_protection": [
+      {
+        "score": 7,
+        "question": "濕地對生態系統有何重要性？",
+        "answer": "提供棲息地"
+      },
+      {
+        "score": 7,
+        "question": "保護濕地有助於控制什麼？",
+        "answer": "洪水"
+      }
+    ],
+    "agricultural_water_management": [
+      {
+        "score": 5,
+        "question": "如何改善農業用水效率？",
+        "answer": "滴灌技術"
+      },
+      {
+        "score": 5,
+        "question": "什麼灌溉方法最節水？",
+        "answer": "微噴灌溉"
+      }
+    ],
+    "coastal_cleanup": [
+      {
+        "score": 6,
+        "question": "海岸清理活動主要是針對哪類污染物？",
+        "answer": "塑膠垃圾"
+      },
+      {
+        "score": 6,
+        "question": "減少海洋垃圾可以保護什麼？",
+        "answer": "海洋生態系統"
+      }
+    ],
+    "soil_erosion_control": [
+      {
+        "score": 6,
+        "question": "防治土壤侵蝕最有效的植物是什麼？",
+        "answer": "草皮"
+      },
+      {
+        "score": 6,
+        "question": "哪種技術有助於控制土壤侵蝕？",
+        "answer": "地表覆蓋"
+      }
+    ],
+    "climate_change_education": [
+      {
+        "score": 5,
+        "question": "氣候變遷主要由什麼造成？",
+        "answer": "溫室氣體排放"
+      },
+      {
+        "score": 5,
+        "question": "哪一項行動有助於減緩氣候變遷？",
+        "answer": "種樹"
+      }
+    ],
+    "renewable_energy_development": [
+      {
+        "score": 7,
+        "question": "哪種能源是可再生能源？",
+        "answer": "風能"
+      },
+      {
+        "score": 7,
+        "question": "太陽能是什麼類型的能源？",
+        "answer": "可再生能源"
+      }
+    ],
+    "environmental_science_conference": [
+      {
+        "score": 6,
+        "question": "環境科學研討會主要分享什麼內容？",
+        "answer": "最新研究成果"
+      },
+      {
+        "score": 6,
+        "question": "為何參加環境科學研討會很重要？",
+        "answer": "增進專業知識"
+      }
+    ],
+    "urban_greening": [
+      {
+        "score": 5,
+        "question": "城市綠化有助於減少什麼？",
+        "answer": "空氣污染"
+      },
+      {
+        "score": 5,
+        "question": "綠化環境如何影響人類健康？",
+        "answer": "改善空氣質量"
+      }
+    ],
+    "industrial_emissions_monitoring": [
+      {
+        "score": 7,
+        "question": "廢氣排放監測的目的是什麼？",
+        "answer": "減少污染"
+      },
+      {
+        "score": 7,
+        "question": "哪些措施可減少工業排放？",
+        "answer": "過濾設備"
+      }
+    ],
+    "environmental_volunteer_training": [
+      {
+        "score": 4,
+        "question": "為什麼志工培訓對環境保護很重要？",
+        "answer": "增強社會意識"
+      },
+      {
+        "score": 4,
+        "question": "志工可以參與哪些環境保護活動？",
+        "answer": "垃圾清理"
+      }
+    ],
+    "ecotourism_promotion": [
+      {
+        "score": 6,
+        "question": "生態旅遊可以如何促進環保？",
+        "answer": "提升認識"
+      },
+      {
+        "score": 6,
+        "question": "生態旅遊的主要目的是什麼？",
+        "answer": "保護自然"
+      }
+    ],
+    "environmental_regulation_enforcement": [
+      {
+        "score": 8,
+        "question": "環境法規執行主要針對什麼問題？",
+        "answer": "環境犯罪"
+      },
+      {
+        "score": 8,
+        "question": "為什麼要嚴格執行環境法規？",
+        "answer": "保護生態"
+      }
+    ]
+  }
+  
