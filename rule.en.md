@@ -1,5 +1,7 @@
 # EcoQuest - Heroes of the GLOBE: Rulebook
 
+[繁體中文](rule.md) | English
+
 - Recommended Player Count: 4-6 players
 - Recommended Age: 8 years old and up
 - Average Playtime: 30-60 minutes
