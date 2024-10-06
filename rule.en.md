@@ -38,21 +38,21 @@
 ## Terrain Description
 
 1. City Area
-![City](../asset/area/City.png)
+![城市](./asset/area/城市.png)
 2. Suburbs and Towns
-![Suburbs](../asset/area/Suburbs.png)
+![郊區](./asset/area/郊區.png)
 3. Agricultural Area
-![Agriculture](../asset/area/Agriculture.png)
+![農業](./asset/area/農業.png)
 4. Industrial Area
-![Industry](../asset/area/Industry.png)
+![工業](./asset/area/工業.png)
 5. Mountain Area
-![Mountain](../asset/area/Mountain.png)
+![山區](./asset/area/山區.png)
 6. Forest Area
-![Forest](../asset/area/Forest.png)
+![森林](./asset/area/森林.png)
 7. Rivers and Wetlands
-![Rivers](../asset/area/Rivers.png)
+![河流](./asset/area/河流.png)
 8. Coastal Area
-![Coast](../asset/area/Coast.png)
+![海岸](./asset/area/海岸.png)
 
 ## Character Card Design
 
