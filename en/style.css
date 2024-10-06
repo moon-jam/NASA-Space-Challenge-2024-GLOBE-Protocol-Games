@@ -1,0 +1,10 @@
+button {
+    padding: 10px 20px;
+    font-size: 1em;
+    margin-top: 10px;
+}
+
+#feedback {
+    margin-top: 15px;
+    font-weight: bold;
+}
