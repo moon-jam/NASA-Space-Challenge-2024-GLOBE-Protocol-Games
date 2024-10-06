@@ -36,21 +36,21 @@
 ## 地形敘述
 
 1. 城市區域
-![城市](./asset/area/城市.png)
+![城市](https://github.com/moon-jam/NASA-Space-Challenge-2024-GLOBE-Protocol-Games/blob/main/asset/area/城市.png?raw=true)
 2. 郊區與小鎮
-![郊區](./asset/area/郊區.png)
+![郊區](https://github.com/moon-jam/NASA-Space-Challenge-2024-GLOBE-Protocol-Games/blob/main/asset/area/郊區.png?raw=true)
 3. 農業區域
-![農業](./asset/area/農業.png)
+![農業](https://github.com/moon-jam/NASA-Space-Challenge-2024-GLOBE-Protocol-Games/blob/main/asset/area/農業.png?raw=true)
 4. 工業區域
-![工業](./asset/area/工業.png)
+![工業](https://github.com/moon-jam/NASA-Space-Challenge-2024-GLOBE-Protocol-Games/blob/main/asset/area/工業.png?raw=true)
 5. 山區
-![山區](./asset/area/山區.png)
+![山區](https://github.com/moon-jam/NASA-Space-Challenge-2024-GLOBE-Protocol-Games/blob/main/asset/area/山區.png?raw=true)
 6. 森林區域
-![森林](./asset/area/森林.png)
+![森林](https://github.com/moon-jam/NASA-Space-Challenge-2024-GLOBE-Protocol-Games/blob/main/asset/area/森林.png?raw=true)
 7. 河流與濕地
-![河流](./asset/area/河流.png)
+![河流](https://github.com/moon-jam/NASA-Space-Challenge-2024-GLOBE-Protocol-Games/blob/main/asset/area/河流.png?raw=true)
 8. 海岸區域
-![海岸](./asset/area/海岸.png)
+![海岸](https://github.com/moon-jam/NASA-Space-Challenge-2024-GLOBE-Protocol-Games/blob/main/asset/area/海岸.png?raw=true)
 
 ## 角色卡設計
 
