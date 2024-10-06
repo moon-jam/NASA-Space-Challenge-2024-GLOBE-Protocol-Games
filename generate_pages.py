@@ -12,7 +12,7 @@ os.makedirs("qa", exist_ok=True)
 task_names = {
     "river_water_quality_monitoring": "河川水質監測",
     "soil_health_assessment": "土壤健康評估",
-    "urban_air_quality_improvement": "城市空氣質量改善",
+    "urban_air_quality_improvement": "城市空品質改善",
     "community_waste_management": "社區廢棄物管理",
     "biodiversity_survey": "生物多樣性調查",
     "energy_efficiency_improvement": "能源效率提升",
@@ -64,33 +64,12 @@ for task_key, task_title in task_names.items():
         file.write(html_template.format(task_key=task_key, task_title=task_title))
 
 # 生成首頁的 HTML 內容
-index_content = """
-<!DOCTYPE html>
-<html lang="zh-Hant">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>環境守護者遊戲規則</title>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-  <style>
-    body {
-      padding-top: 20px;
-      text-align: center;
-    }
-    .container {
-      max-width: 600px;
-    }
-    .list-group-item {
-      font-size: 1.2em;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <h1 class="mb-4">環境守護者遊戲規則</h1>
-    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quaerat ut excepturi perferendis velit eligendi doloribus animi quia, voluptate quos quibusdam ipsum doloremque eius, veritatis enim dignissimos harum ad maiores rem aspernatur consectetur sed corporis libero consequatur. Totam, inventore! Dolorum, minima dignissimos, fugit consequatur recusandae unde ducimus harum sed error praesentium explicabo et dolore earum commodi consequuntur voluptas molestiae provident est repellat. Delectus, quos repellat. Dignissimos at eaque dolorem quam quos illo maxime dolores sunt distinctio tempora repudiandae laborum, quis iusto asperiores impedit quo? Dolorem incidunt porro non dolores, rem similique! Modi, dolorem tenetur provident vero aut fugit rerum accusamus. Doloremque vero illo optio odit eius inventore nesciunt quod aspernatur! In deleniti fugit, ducimus sed, reprehenderit sunt aliquam odio reiciendis nobis labore harum enim itaque a consequuntur corporis optio deserunt eaque ab similique! Totam sit perspiciatis voluptatum, cumque minus ipsam impedit laborum saepe necessitatibus reiciendis! Deleniti dolor repellat eligendi laudantium distinctio mollitia incidunt quaerat quis voluptatum magni sit facere magnam iure consectetur inventore ex cumque ducimus, expedita ut quidem possimus aut necessitatibus adipisci dicta! Reiciendis nihil eos repellendus quisquam totam? Placeat a possimus quisquam reiciendis odio ducimus animi velit natus aliquid repudiandae. Harum modi laborum commodi officia distinctio reprehenderit deserunt similique expedita quia nisi consequuntur dolorem, dignissimos doloribus velit corrupti perspiciatis. Dolor non voluptatibus, illo, delectus quo, eos a placeat optio atque expedita doloremque maxime. Odio saepe numquam eum error excepturi beatae earum nihil commodi facere similique, fuga velit sunt debitis totam fugit sequi ullam, suscipit impedit quasi in tempore? Adipisci sit dolorem veniam accusamus consequuntur pariatur harum blanditiis, magnam reprehenderit perferendis beatae optio illum. Laudantium molestiae tenetur aperiam libero, quos esse similique vel aut consectetur dolorem, tempora optio fugit numquam inventore, quam laboriosam autem. Error dolorum magnam architecto aspernatur voluptatum, natus nam, repellendus odio corporis perspiciatis neque explicabo excepturi ea.</p>
-    <div class="list-group">
-"""
+index_content = ""
+
+with open("rule_template.html", "r", encoding="utf-8") as file:
+    lines = file.readlines()
+    index_content += ''.join(lines[:-6])
+
 # 插入任務卡的鏈接
 for task_key, task_title in task_names.items():
     index_content += f'      <a href="qa/{task_key}.html" class="list-group-item list-group-item-action">{task_title}</a>\n'

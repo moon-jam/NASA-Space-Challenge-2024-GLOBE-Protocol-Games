@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 questionElement.textContent = randomQuestion.question;
                 document.getElementById('reveal').addEventListener('click', function () {
                     clearInterval(timer);
-                    feedbackElement.textContent = `答案：${randomQuestion.answer}，分數：${randomQuestion.score} 分`;
+                    feedbackElement.textContent = `答案：${randomQuestion.answer}`;
                 });
                 startTimer();
             });
