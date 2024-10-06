@@ -32,7 +32,7 @@ In the end, when all players successfully complete their environmental tasks and
 
 ## **Rulebook**
 
-See the [Rulebook](./rule.md) for details.
+See the [Rulebook](./rule.en.md) for details.
 
 ## **Board Game Design Files**
 
