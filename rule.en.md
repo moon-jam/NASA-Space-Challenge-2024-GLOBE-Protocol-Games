@@ -38,21 +38,21 @@
 ## Terrain Description
 
 1. City Area
-![City](./asset/area/City.png)
+![City](../asset/area/City.png)
 2. Suburbs and Towns
-![Suburbs](./asset/area/Suburbs.png)
+![Suburbs](../asset/area/Suburbs.png)
 3. Agricultural Area
-![Agriculture](./asset/area/Agriculture.png)
+![Agriculture](../asset/area/Agriculture.png)
 4. Industrial Area
-![Industry](./asset/area/Industry.png)
+![Industry](../asset/area/Industry.png)
 5. Mountain Area
-![Mountain](./asset/area/Mountain.png)
+![Mountain](../asset/area/Mountain.png)
 6. Forest Area
-![Forest](./asset/area/Forest.png)
+![Forest](../asset/area/Forest.png)
 7. Rivers and Wetlands
-![Rivers](./asset/area/Rivers.png)
+![Rivers](../asset/area/Rivers.png)
 8. Coastal Area
-![Coast](./asset/area/Coast.png)
+![Coast](../asset/area/Coast.png)
 
 ## Character Card Design
 
